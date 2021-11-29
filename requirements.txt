@@ -1,9 +1,0 @@
-pandas==1.2.4
-streamlit==0.69.2
-vaex_hdf5==0.6.0
-natsort==7.1.1
-scipy==1.6.2
-matplotlib==3.3.4
-seaborn==0.11.1
-numpy==1.20.2
-vaex==4.6.0
